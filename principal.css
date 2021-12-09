@@ -59,6 +59,15 @@ section {
   justify-content: space-between;
 }
 
+/* borar esto cuando sean tres elementos en la segunda fila */
+.icon-list2 {
+  width: 55%;
+  max-width: 50rem;
+  padding: 0 1.5rem;
+  display: flex;
+  justify-content: space-between;
+}
+
 .icon-item {
   list-style: none
 }
